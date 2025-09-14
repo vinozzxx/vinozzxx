@@ -78,7 +78,8 @@
 ---
 
 <!-- Skills Badges -->
-## <span style="color:#A230ED">🚀 Skills & Tools</span>
+<!--## <span style="color:#A230ED">🚀 Skills & Tools</span>-->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-A230ED?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-A230ED?style=for-the-badge&logo=mysql&logoColor=white" />
