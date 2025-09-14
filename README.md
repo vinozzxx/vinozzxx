@@ -99,7 +99,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&layout=compact&theme=radical&title_color=A230ED&text_color=ffffff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx=theme=compact&radical&title_color=A230ED&text_color=ffffff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx)](https://github.com/anuraghazra/github-readme-stats)
 
