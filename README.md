@@ -97,13 +97,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar&theme=radical&ring=A230ED&fire=A230ED&currStreakLabel=A230ED" height="170" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&layout=compact&theme=radical&title_color=A230ED&text_color=ffffff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" width="270" height="190" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
