@@ -91,7 +91,7 @@
 ---
 
 <!-- GitHub Stats -->
-## <span style="color:#A230ED">📊 GitHub Analytics</span>
+<!--## <span style="color:#A230ED">📊 GitHub Analytics</span>-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinothkumar&show_icons=true&theme=radical&title_color=A230ED&icon_color=A230ED&text_color=ffffff&bg_color=0d1117" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar&theme=radical&ring=A230ED&fire=A230ED&currStreakLabel=A230ED" height="170" />
