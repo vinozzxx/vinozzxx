@@ -99,7 +99,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" width="270" height="190" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity)](https://leetcode.com/u/vinozzxx/)
 
