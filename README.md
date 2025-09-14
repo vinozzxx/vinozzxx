@@ -1,8 +1,7 @@
-<!-- 🌌 Purple Themed GitHub Profile README 🌌 -->
-<!-- Replace placeholders (YOUR_USERNAME, YOUR_NAME, etc.) with your real info -->
-
+<!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Vinoth+Kumar!;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Machine+Learning+%7C+Cloud+%7C+AI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A230ED&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vinothkumar;Data+Science+%7C+ML+%7C+AI;Passionate+about+Tech+%26+Innovation" alt="Typing SVG">
+</h1>
 
 <p align="center">
   <a href="https://github.com/vinothkumar" target="_blank">
@@ -79,7 +78,22 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true" width="48%"/>
 </p>
+---
+## 📈 Contribution Graph
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinozzxx&bg_color=000000&color=c252ff&line=e14dff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 💜 Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-7B2CBF?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-💜-8A2BE2?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ## 🧰 Languages & Tools
