@@ -104,25 +104,11 @@
 <!-- leetcode stats -->
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity)](https://leetcode.com/u/vinozzxx/)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity&width=450&height=300)](https://leetcode.com/u/vinozzxx/)
+
+
 <!-- top language using -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&theme=radical&layout=compact" width="400" />
-</a>
-
-
-
-
-
-
 
 
 ## 📈 Contribution Graph
