@@ -79,6 +79,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true" width="48%"/>
 </p>
 ---
+
+## 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,docker,mysql,postgres,figma&theme=dark" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinozzxx&bg_color=000000&color=c252ff&line=e14dff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -95,10 +103,6 @@
   </a>
 </p>
 ---
-
-## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,docker,mysql,postgres,figma&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7B2CBF&section=footer"/>
 </p>
-
----
