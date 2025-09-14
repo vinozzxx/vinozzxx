@@ -18,3 +18,21 @@
     <img src="https://img.shields.io/badge/-Support%20Me-F7DF1E?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
+
+---
+
+## 💫 About Me
+
+- 🎓 Recent ECE graduate (2025) with strong interest in Data Science & Analytics
+
+- 💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-learn, and Data Visualization (Tableau/Power BI)
+
+- 📊 Experienced in building end-to-end projects like PhonePe Transaction Analysis and Amazon Music Clustering
+
+- ✨ Currently strengthening knowledge in Machine Learning, Feature Engineering, and Model Deployment
+
+- 🤝 Open to collaborating on data-driven projects, analytics solutions, and open-source contributions
+
+- 🎯 Goal: Kickstart my career in Data Science / Data Analytics and grow into a global tech professional
+
+---
