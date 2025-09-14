@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- 🌌 Purple Themed GitHub Profile README 🌌 -->
+<!-- Replace placeholders (YOUR_USERNAME, YOUR_NAME, etc.) with your real info -->
 
-<!--
-**vinozzxx/vinozzxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Vinod+Kumar!;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Machine+Learning+%7C+Cloud+%7C+AI" alt="Typing SVG">
 
-Here are some ideas to get you started:
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Developer-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Designer-8A2BE2?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Science-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
+</p>
