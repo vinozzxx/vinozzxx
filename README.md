@@ -69,3 +69,22 @@
 </p>
 
 ---
+
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=9D4EDD&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=8A2BE2&fire=9D4EDD&currStreakLabel=7B2CBF&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,docker,mysql,postgres,figma&theme=dark" />
+</p>
+
+---
