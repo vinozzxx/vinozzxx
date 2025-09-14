@@ -104,7 +104,7 @@
 <!-- leetcode stats -->
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity)](https://leetcode.com/u/vinozzxx/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity&width=450&height=300)](https://leetcode.com/u/vinozzxx/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity&width=370&height=250)](https://leetcode.com/u/vinozzxx/)
 
 
 <!-- top language using -->
