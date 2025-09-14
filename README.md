@@ -99,11 +99,9 @@
 
 
 <!-- image  -->
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="390" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 <!-- leetcode stats -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity)](https://leetcode.com/u/vinozzxx/)
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=dark&font=Noto%20Sans%20Kannada&ext=activity&width=570&height=50)](https://leetcode.com/u/vinozzxx/)
 
 
