@@ -36,3 +36,36 @@
 - 🎯 Goal: Kickstart my career in Data Science / Data Analytics and grow into a global tech professional
 
 ---
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-8A2BE2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-9D4EDD?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://youtube.com/YOUR_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-7B2CBF?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
+
+---
