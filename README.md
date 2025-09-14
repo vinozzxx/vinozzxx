@@ -83,6 +83,16 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,docker,mysql,postgres,figma&theme=dark" />
 </p>
 
+<!-- Skills Badges -->
+## <span style="color:#A230ED">🚀 Skills & Tools</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-A230ED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-A230ED?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-A230ED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-A230ED?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-A230ED?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
 ---
 
 ## 📈 Contribution Graph
