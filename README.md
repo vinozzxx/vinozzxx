@@ -83,6 +83,9 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,docker,mysql,postgres,figma&theme=dark" />
 </p>
 
+---
+<img align="right" width="270" height="190" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 <!-- Skills Badges -->
 ## <span style="color:#A230ED">🚀 Skills & Tools</span>
 <p align="center">
