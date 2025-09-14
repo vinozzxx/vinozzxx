@@ -100,6 +100,7 @@
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vinozzxx?theme=light&font=Noto%20Sans%20Nushu)](https://leetcode.com/u/vinozzxx/)
 
 ## 📈 Contribution Graph
 
