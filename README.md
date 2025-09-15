@@ -75,6 +75,9 @@
   <img src="https://skillicons.dev/icons?i=python,react,git,github,mysql,postgres,figma&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,powerbi,tableau,react,git,github,mysql,postgres,figma&theme=dark" />
+</p>
 
 
 <!-- Skills Badges -->
