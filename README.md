@@ -45,7 +45,7 @@
    <a href="mailto:YOUR_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-9D4EDD?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/vinothkumar-aa2a53269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
