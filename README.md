@@ -72,20 +72,9 @@
 
 ## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,datascience,pandas,numpy,mechinelearning,datavisualization,streamlit,powerbi,tableau,react,git,github,mysql,postgres,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,git,github,mysql,postgres,figma&theme=dark" />
 </p>
 
-<figure style="display:flex; justify-content:center; margin:0;">
-  <img
-    src="https://skillicons.dev/icons?i=python,datascience,pandas,numpy,machinelearning,datavisualization,streamlit,powerbi,tableau,react,git,github,mysql,postgres,figma&theme=dark"
-    alt="Icons for skills: Python, Data Science, pandas, numpy, Machine Learning, Data Visualization, Streamlit, Power BI, Tableau, React, Git, GitHub, MySQL, PostgreSQL, Figma"
-    style="max-width:100%; height:auto; display:block;"
-  />
-</figure>
-
-<p style="text-align:center;">
-  <img src="https://skillicons.dev/icons?i=python,datascience,pandas,numpy,machinelearning,datavisualization,streamlit,powerbi,tableau,react,git,github,mysql,postgres,figma&theme=dark" alt="Skill icons" />
-</p>
 
 
 <!-- Skills Badges -->
