@@ -4,16 +4,16 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/vinothkumar" target="_blank">
+  <a href="https://github.com/vinozzxx" target="https://github.com/vinozzxx">
     <img src="https://img.shields.io/badge/-Data%20Science-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vinothkumar-aa2a53269/" target="https://www.linkedin.com/in/vinothkumar-aa2a53269/">
     <img src="https://img.shields.io/badge/-Machine%20Learning-7B2CBF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   </a>
-  <a href="https://vinothkumar-portfolio.com" target="_blank">
+  <a href="https://bold.pro/my/vinothkumar-250910162038" target="https://bold.pro/my/vinothkumar-250910162038">
     <img src="https://img.shields.io/badge/-Full%20Stack-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://buymeacoffee.com/vinodatasc4" target="_blank">
+  <a href="https://buymeacoffee.com/vinodatasc4" target="https://buymeacoffee.com/vinodatasc4">
     <img src="https://img.shields.io/badge/-Support%20Me-F7DF1E?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
@@ -42,17 +42,17 @@
 </p>
 
 <p align="center">
-   <a href="mailto:YOUR_EMAIL" target="_blank">
+   <a href="mailto:vinoesec@gmail.com" target="vinoesec@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-9D4EDD?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="www.linkedin.com/in/vinothkumar-aa2a53269" target="_blank">
+  <a href="https://www.linkedin.com/in/vinothkumar-aa2a53269/" target="https://www.linkedin.com/in/vinothkumar-aa2a53269/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-8A2BE2?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://youtube.com/YOUR_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-7B2CBF?style=for-the-badge&logo=youtube" />
+  <a href="https://bold.pro/my/vinothkumar-250910162038" target="https://bold.pro/my/vinothkumar-250910162038">
+    <img src="https://img.shields.io/badge/Portfolio-Subscribe-7B2CBF?style=for-the-badge&logo=youtube" />
   </a>
 </p>
 
