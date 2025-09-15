@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,powerbi,tableau,react,git,github,mysql,postgres,figma&theme=dark" />
+  <img src="https://img.icons8.com/color/48/streamlit.png,figma&theme=dark" />
 </p>
 
 
