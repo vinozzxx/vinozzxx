@@ -72,7 +72,7 @@
 
 ## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,pytorch,tensorflow,git,github,mysql,postgres,anaconda,aws,vscode,ai,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,pytorch,tensorflow,git,github,mysql,postgres,anaconda,aws,vscode&theme=dark" />
 </p>
 
 <p align="center">
