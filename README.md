@@ -7,7 +7,7 @@
   <a href="https://github.com/vinothkumar" target="_blank">
     <img src="https://img.shields.io/badge/-Data%20Science-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vinothkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/vinothkumar" target="https://www.linkedin.com/in/vinothkumar">
     <img src="https://img.shields.io/badge/-Machine%20Learning-7B2CBF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   </a>
   <a href="https://vinothkumar-portfolio.com" target="_blank">
