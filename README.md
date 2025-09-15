@@ -38,23 +38,14 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=i=gmail,linkedin,git,github,twitter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=i=gmail,linkedin,git,github,twitter,instagram&theme=dark" />
 </p>
 
 <p align="center">
   <a href="mailto:yourmail@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" />
-  </a>
-</p>
+  <a
 
 <p align="center">
    <a href="mailto:YOUR_EMAIL" target="_blank">
