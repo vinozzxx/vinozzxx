@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Machine%20Learning-7B2CBF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   </a>
   <a href="https://bold.pro/my/vinothkumar-250910162038" target="https://bold.pro/my/vinothkumar-250910162038">
-    <img src="https://img.shields.io/badge/-Full%20Stack-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://buymeacoffee.com/vinodatasc4" target="https://buymeacoffee.com/vinodatasc4">
     <img src="https://img.shields.io/badge/-Support%20Me-F7DF1E?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Twitter-Follow-8A2BE2?style=for-the-badge&logo=twitter" />
   </a>
   <a href="https://bold.pro/my/vinothkumar-250910162038" target="https://bold.pro/my/vinothkumar-250910162038">
-    <img src="https://img.shields.io/badge/Portfolio-Subscribe-7B2CBF?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/Portfolio-Connect-7B2CBF?style=for-the-badge&logo=react" />
   </a>
 </p>
 
