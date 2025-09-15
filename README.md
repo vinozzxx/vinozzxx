@@ -38,6 +38,10 @@
 ### 🔗 Connect With Me
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=i=gmail,linkedin,git,github,twitter&theme=dark" />
+</p>
+
+<p align="center">
   <a href="mailto:yourmail@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
