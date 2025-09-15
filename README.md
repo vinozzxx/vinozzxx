@@ -42,12 +42,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
-  <a
-
-<p align="center">
    <a href="mailto:YOUR_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-9D4EDD?style=for-the-badge&logo=gmail" />
   </a>
