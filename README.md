@@ -53,14 +53,14 @@
 </p>
 
 <p align="center">
+   <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-9D4EDD?style=for-the-badge&logo=gmail" />
+  </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-8A2BE2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-9D4EDD?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://youtube.com/YOUR_YOUTUBE" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-7B2CBF?style=for-the-badge&logo=youtube" />
@@ -72,10 +72,8 @@
 
 ## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,docker,mysql,postgres,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,datascience,pandas,numpy,mechinelearning,datavisualization,streamlit,powerbi,tableau,react,git,github,mysql,postgres,figma&theme=dark" />
 </p>
-
----
 
 <!-- Skills Badges -->
 <!--## <span style="color:#A230ED">🚀 Skills & Tools</span>-->
@@ -88,7 +86,6 @@
   <img src="https://img.shields.io/badge/Streamlit-A230ED?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
----
 ---
 
 <!-- GitHub Stats -->
