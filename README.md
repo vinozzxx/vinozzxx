@@ -72,11 +72,11 @@
 
 ## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,git,github,mysql,postgres,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,aws,react,git,github,mysql,postgres,figma&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/streamlit.png,figma&theme=dark" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
 </p>
 
 
