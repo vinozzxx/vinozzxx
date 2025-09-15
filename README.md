@@ -38,7 +38,7 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=i=gmail,linkedin,git,github,twitter,instagram&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gmail,linkedin,git,github,twitter,instagram&theme=dark" />
 </p>
 
 <p align="center">
